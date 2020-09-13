@@ -1,0 +1,33 @@
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto Principal.vbprojAssemblyReference.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto_Principal.frmPrincipal.resources
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto_Principal.Resources.resources
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto Principal.vbproj.GenerateResource.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto Principal.vbproj.CoreCompileInputs.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\Projeto Principal.exe.config
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\Projeto Principal.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\Projeto Principal.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\Projeto Principal.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto Principal.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto Principal.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto Principal.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Primeiro Projeto.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Primeiro Projeto.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Primeiro Projeto.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Primeiro Projeto.exe.config
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\obj\Debug\Projeto Principal.vbproj.CopyComplete
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Criando Variaveis.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\3 - Manipulando Texto.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\4 - Controle de Fluxo.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\5 - Laços.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Criando Variaveis.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Criando Variaveis.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\1 - Criando Variaveis.exe.config
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\3 - Manipulando Texto.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\3 - Manipulando Texto.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\3 - Manipulando Texto.exe.config
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\4 - Controle de Fluxo.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\4 - Controle de Fluxo.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\4 - Controle de Fluxo.exe.config
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\5 - Laços.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\5 - Laços.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\Projeto Principal\bin\Debug\5 - Laços.exe.config

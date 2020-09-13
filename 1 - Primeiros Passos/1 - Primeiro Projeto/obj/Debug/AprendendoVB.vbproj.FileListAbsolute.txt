@@ -1,0 +1,12 @@
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe.config
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\AprendendoVB.vbprojAssemblyReference.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.Resources.resources
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\AprendendoVB.vbproj.GenerateResource.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\AprendendoVB.vbproj.CoreCompileInputs.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.frmTelaPrincipal.resources

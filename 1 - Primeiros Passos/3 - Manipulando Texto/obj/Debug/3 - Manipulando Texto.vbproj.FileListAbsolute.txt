@@ -1,0 +1,11 @@
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\bin\Debug\3 - Manipulando Texto.exe.config
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\bin\Debug\3 - Manipulando Texto.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\bin\Debug\3 - Manipulando Texto.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\bin\Debug\3 - Manipulando Texto.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\obj\Debug\_3___Manipulando_Texto.Resources.resources
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\obj\Debug\3 - Manipulando Texto.vbproj.GenerateResource.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\obj\Debug\3 - Manipulando Texto.vbproj.CoreCompileInputs.cache
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\obj\Debug\3 - Manipulando Texto.exe
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\obj\Debug\3 - Manipulando Texto.xml
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\obj\Debug\3 - Manipulando Texto.pdb
+D:\Projects\alura-vb-dotnet\1 - Primeiro Projeto\3 - Manipulando Texto\obj\Debug\_3___Manipulando_Texto.frmPrincipal3.resources

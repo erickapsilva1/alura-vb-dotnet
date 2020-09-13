@@ -1,0 +1,12 @@
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\2 - Criando Variaveis.vbproj.GenerateResource.cache
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\2 - Criando Variaveis.vbproj.CoreCompileInputs.cache
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\_2___Criando_Variaveis.frmPrincipal2.resources
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\_2___Criando_Variaveis.Resources.resources
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\bin\Debug\1 - Criando Variaveis.exe.config
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\bin\Debug\1 - Criando Variaveis.exe
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\bin\Debug\1 - Criando Variaveis.pdb
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\bin\Debug\1 - Criando Variaveis.xml
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\2 - Criando Variaveis.vbprojAssemblyReference.cache
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\1 - Criando Variaveis.exe
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\1 - Criando Variaveis.xml
+D:\Projects\alura-vb-dotnet\2 - Variaveis\Criando Variaveis\obj\Debug\1 - Criando Variaveis.pdb
