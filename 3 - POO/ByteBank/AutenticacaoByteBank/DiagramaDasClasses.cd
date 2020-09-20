@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AutenticacaoByteBank.Classes.Funcionarios.Gerente" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Funcionarios\Gerente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Funcionarios.Auxiliar" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Funcionarios\Auxiliar.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Funcionarios.Desenvolvedor" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Funcionarios\Desenvolvedor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Funcionarios.Designer" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Funcionarios\Designer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Funcionarios.Diretor" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Funcionarios\Diretor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Funcionarios.Funcionario" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAEAAABAAQAAAIAgAAAAAAAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Classes\Funcionarios\Funcionario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Funcionarios.FuncionarioAutenticavel" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Funcionarios\FuncionarioAutenticavel.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Bibliotecas.GerenciadorBonificacao" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAABAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Bibliotecas\GerenciadorBonificacao.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Bibliotecas.SistemaInterno" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Bibliotecas\SistemaInterno.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutenticacaoByteBank.Classes.Externos.Representante" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Externos\Representante.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="AutenticacaoByteBank.IAutentica" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Bibliotecas\IAutentica.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

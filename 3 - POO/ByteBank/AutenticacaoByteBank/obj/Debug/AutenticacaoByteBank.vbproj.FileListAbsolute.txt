@@ -1,0 +1,12 @@
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\bin\Debug\AutenticacaoByteBank.exe.config
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\bin\Debug\AutenticacaoByteBank.exe
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\bin\Debug\AutenticacaoByteBank.pdb
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\bin\Debug\AutenticacaoByteBank.xml
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.FrmPrincipal.resources
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.Resources.resources
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.vbproj.GenerateResource.cache
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.vbproj.CoreCompileInputs.cache
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.exe
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.xml
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.pdb
+D:\Projects\alura-vb-dotnet\3 - POO\ByteBank\AutenticacaoByteBank\obj\Debug\AutenticacaoByteBank.vbprojAssemblyReference.cache
