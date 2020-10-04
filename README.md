@@ -7,3 +7,5 @@
 - VB.NET com Windows Forms Parte 2: Introdução à Orientação a Objetos
 
 - VB.NET com Windows Forms Parte 3: Avançando na Orientação a Objetos
+
+- VB.NET com Windows Forms Parte 4: Entendendo exceções
