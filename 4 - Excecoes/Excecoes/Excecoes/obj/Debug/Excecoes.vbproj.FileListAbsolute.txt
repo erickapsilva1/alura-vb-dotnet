@@ -1,0 +1,12 @@
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\bin\Debug\Excecoes.exe.config
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\bin\Debug\Excecoes.exe
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\bin\Debug\Excecoes.pdb
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\bin\Debug\Excecoes.xml
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.vbprojAssemblyReference.cache
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.FrmPrincipal.resources
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.Resources.resources
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.vbproj.GenerateResource.cache
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.vbproj.CoreCompileInputs.cache
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.exe
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.xml
+D:\Projects\alura-vb-dotnet\4 - Excecoes\Excecoes\Excecoes\obj\Debug\Excecoes.pdb
